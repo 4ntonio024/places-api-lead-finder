@@ -12,7 +12,7 @@
 
 ---
 
-## What it does
+## What does it do?
 
 Given a list of **areas** (towns/cities) and **niche keywords** (e.g. `electricista`, `chapa y pintura`), the script queries the Places API, reads each place's `websiteUri`, and keeps only the businesses that have **no website** or a **weak** one (a Facebook/Instagram page, a `business.site`, a free site-builder URL…). Results land in a filterable sheet with name, address, phone and a Google Maps link.
 

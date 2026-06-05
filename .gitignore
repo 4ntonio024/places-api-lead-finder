@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# NEVER commit your API key. Keep it out of src/Code.gs before pushing,
+# or store it in Script Properties (see docs/INSTALL.md).
+# ---------------------------------------------------------------------------
+*.key
+*.secret
+secrets.*
+.env
+.env.*
+
+# clasp (Apps Script CLI) — local credentials & project link
+.clasp.json
+.clasprc.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local notes / exports
+/local/
+*.local.md
+leads-export*.csv

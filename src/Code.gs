@@ -20,7 +20,7 @@
  */
 
 // ================================ CONFIG ================================
-const API_KEY  = 'PASTE_YOUR_API_KEY_HERE'; // Places API (New) key — DO NOT COMMIT a real key
+const API_KEY  = 'PASTE_YOUR_API_KEY_HERE'; // Places API (New) key
 const LANGUAGE = 'ca';   // result language (BCP-47): 'ca', 'es', 'en', ...
 const REGION   = 'ES';   // result region bias (CLDR region code)
 const MAX_PAGES = 3;     // pages per query (1-3). 20 results/page → up to 60 per query

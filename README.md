@@ -1,9 +1,10 @@
 # Places Api Lead Finder
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
+![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Places API](https://img.shields.io/badge/Places%20API-New-34A853)
 ![Cost](https://img.shields.io/badge/cost-~%240%2Fmonth-success)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > Find local businesses **without a website** and drop them into a Google Sheet — a ready-to-call lead list for web-design / digitalization sales, built on the official **Google Places API (New)**.
 >

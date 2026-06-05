@@ -1,4 +1,4 @@
-# places-api-lead-finder
+# Places Api Lead Finder
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
